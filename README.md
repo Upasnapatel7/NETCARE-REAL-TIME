@@ -61,7 +61,4 @@ http://localhost:3000
 
 Team Members: 
 
-Upasna Patel
-Vikas Singh
-Drashant Tomar
-Astha Pathania
+Upasna Patel, Astha Pathania, Vikas Singh, Drashant Tomar
